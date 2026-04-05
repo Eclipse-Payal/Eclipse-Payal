@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Payal%20Dhage&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Designer%20%7C%20Explorer&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Payal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Designer%20%7C%20Explorer&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+beautiful+web+interfaces;Frontend+Developer+with+creative+mind;Turning+ideas+into+interactive+UI;Always+learning+and+growing" />
 
@@ -9,6 +9,12 @@
 <img src="https://img.shields.io/badge/Frontend-Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/UI/UX-Design-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/Web-Projects-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/Eclipse-Payal">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -85,7 +91,7 @@ A modern and responsive travel website designed to explore destinations, showcas
 <div align="center">
 
 <a href="https://github.com/Eclipse-Payal">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow_Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
