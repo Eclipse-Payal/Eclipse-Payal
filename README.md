@@ -16,7 +16,7 @@
 
 ## 🌸 About Me
 
-Hi, I'm **Payal Dhage** 👋  
+Hi, I'm **Payal** 👋  
 A passionate frontend developer who loves creating **beautiful, responsive, and user-friendly web experiences**.
 
 - 💻 Focused on modern frontend development  
